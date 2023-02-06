@@ -47,6 +47,7 @@ Whether you're a beginner or an expert, you're sure to find something of interes
 
 ## Cool Websites
 - [ChatGPT](https://chat.openai.com/)
+- [Murf](https://murf.ai/) - enables anyone to convert text to speech, voice-overs, and dictations, and it is used by a wide range of professionals like product developers, podcasters, educators, and business leaders
 - [WordTune](https://www.wordtune.com/)
 - [MagicEraser](http://magiceraser.io/)
 - [Boomy](https://boomy.com/)
