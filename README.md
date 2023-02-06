@@ -1,4 +1,4 @@
-# The-AI-Encyclopedia 
+# The AI Encyclopedia 
 
 This repository contains a comprehensive list of websites that cover various aspects of Artificial Intelligence. From research papers and blogs, to tutorials and courses, this list aims to serve as a one-stop-shop for AI enthusiasts and professionals.
 
