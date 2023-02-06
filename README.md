@@ -13,6 +13,7 @@ Whether you're a beginner or an expert, you're sure to find something of interes
 - [News and Updates](#news-and-updates)
 - [Communities](#communities)
 - [Tools and Platforms](#tools-and-platforms)
+- [Cool Websites](#cool-websites)
 
 ## Research Papers
 - [arXiv](https://arxiv.org/)
@@ -43,6 +44,23 @@ Whether you're a beginner or an expert, you're sure to find something of interes
 - [TensorFlow](https://www.tensorflow.org/)
 - [PyTorch](https://pytorch.org/)
 - [Caffe](http://caffe.berkeleyvision.org/)
+
+## Cool Websites
+- [ChatGPT](https://chat.openai.com/)
+- [WordTune](https://www.wordtune.com/)
+- [MagicEraser](http://magiceraser.io/)
+- [Boomy](https://boomy.com/)
+- [FakeYou](https://fakeyou.com/)
+- [Craiyon](http://craiyon.com/)
+- [Huemint](https://huemint.com/)
+- [Rytr](http://rytr.me/)
+- [Thing Translator](https://thing-translator.appspot.com/)
+- [AutoDraw](https://www.autodraw.com/)
+- [FontJoy](http://fontjoy.com/)
+- [Uizard](https://uizard.io/)
+- [QuickDraw](https://quickdraw.withgoogle.com/)
+- [Talk To Books](https://books.google.com/talktobooks/)
+- [Real-Time AI Voice Changer](https://voice.ai/)
 
 ## Contributing
 Your contributions are always welcome! Please feel free to send a pull request.
