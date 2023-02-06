@@ -62,6 +62,7 @@ Whether you're a beginner or an expert, you're sure to find something of interes
 - [QuickDraw](https://quickdraw.withgoogle.com/) - Where you help train AI to recognise doodles with your quick sketches.
 - [Talk To Books](https://books.google.com/talktobooks/) - Can’t make up your mind? How about looking up the answer in books? All you have to do is formulate a question and look at the quotes from Talk To Books.
 - [Real-Time AI Voice Changer](https://voice.ai/)
+- [LogoAI](https://www.logoai.com/) - Let AI-powered logo maker generate your new logo, create matching stationery, and design a brand you love!
 
 ## Contributing
 Your contributions are always welcome! Please feel free to send a pull request. ❤️
